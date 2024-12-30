@@ -12,4 +12,8 @@ class ThemeColors {
     'income': Color.fromRGBO(101, 69, 198, 1)
   };
   static const division = Color.fromRGBO(166, 166, 166, 1);
+  static const points = {
+    'income': Color.fromRGBO(250, 0, 112, 1),
+    'streaming': Color.fromRGBO(75, 89, 191, 1)
+  };
 }
